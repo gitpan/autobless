@@ -1,5 +1,5 @@
 package autobless;
-$VERSION = 1.0;
+$VERSION = '1.0.1';
 
 use base pragmatic;
 bootstrap xsub;
